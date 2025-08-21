@@ -7,7 +7,8 @@ USE proyecto_cliente;
 
 #   ======= TABLA OTIGINAL =======
 
-select * from ventas_original limit 10;
+select * from ventas_original limit 10;#tabla cargada
+
 
 
 
@@ -60,6 +61,7 @@ SELECT * FROM segmentos;
 SELECT * FROM ubicaciones;
 SELECT * FROM categorias;
 SELECT * FROM ventas;
+
 
 
 
